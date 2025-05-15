@@ -1,4 +1,4 @@
-#Ordem dos Comandos - Aula Git e Github
+# Ordem dos Comandos - Aula Git e Github
 
 1.  Criar uma pasta 'Script';
 2.  git init (Criar repositório);
